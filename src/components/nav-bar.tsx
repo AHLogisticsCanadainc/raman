@@ -24,13 +24,12 @@ export function NavBar() {
     >
       <div className="container mx-auto px-4 flex justify-between items-center">
         <div className="flex items-center gap-2">
-          <img 
-            src="/GTA.svg" 
-            alt="Insured By RD Logo" 
+          <img
+            src="/GTA.svg"
+            alt="Insured By RD Logo"
             className="w-16 h-16"
           />
-          <span className={`text-xl font-bold ${isScrolled ? 'text-gray-900' : 'text-white'}`}>
-          <span className={`text-2xl font-bold ${isScrolled ? 'text-gray-900' : 'text-white'}`}>
+          <span className={`text-2xl font-extrabold ${isScrolled ? 'text-gray-900' : 'text-white'}`}>
             Insured By RD
           </span>
         </div>
@@ -55,8 +54,5 @@ export function NavBar() {
         </button>
       </div>
     </nav>
-  )
-}
-
   )
 }
