@@ -54,7 +54,7 @@ const services = [
     icon: Briefcase,
     title: 'Investment Solutions',
     description: 'Grow your wealth',
-    details: 'Our investment solutions help you build wealth through diversified portfolios tailored to your risk tolerance and financial goals. We offer guidance on mutual funds, segregated funds, and other investment vehicles.'
+    details: 'Our investment solutions help you build wealth through diversified portfolios tailored to your risk tolerance and financial goals, such as segregated funds, and other investment vehicles.'
   },
   {
     icon: Home,
