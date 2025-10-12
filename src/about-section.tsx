@@ -5,7 +5,7 @@ export function AboutSection() {
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="text-4xl md:text-5xl font-bold mb-8">ABOUT INSURED BY RD</h2>
           <p className="text-xl text-gray-600 mb-6">
-            At Insured by RD, we believe that insurance isn't just a cost—it's a critical tool for building resilience. Founded by Ramandeep Aulakh (RD), a licensed advisor right here in the Mississauga/GTA area, our company is built on a passion for helping people secure their future.
+            At Insured by RD, we believe that insurance isn't just a cost—it's a critical tool for building resilience. As a licensed insurance advisor, right here in the serving the Mississauga/GTA area, my service is built on a passion for helping people insure their future.
           </p>
           <p className="text-xl text-gray-600">
             The RD Philosophy: Risk is Inevitable... Insurance is Resilience.
