@@ -21,7 +21,7 @@ export function FounderSection() {
               </blockquote>
               <div className="border-l-4 border-red-600 pl-6">
                 <p className="text-xl font-semibold text-gray-900">RAMANDEEP AULAKH (RD AULAKH)</p>
-                <p className="text-gray-600">Licensed Insurance Agent</p>
+                <p className="text-gray-600">Licensed Insurance Advisor</p>
                 <p className="text-gray-500 mt-2">Serving Since 2023</p>
               </div>
             </div>
