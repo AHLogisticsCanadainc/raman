@@ -27,12 +27,6 @@ const services = [
     details: 'Travel insurance protects you during domestic and international trips, covering medical emergencies, trip cancellations, lost luggage, and other unexpected events that may occur while traveling.'
   },
   {
-    icon: GraduationCap,
-    title: 'Education Plans',
-    description: 'Invest in your child\'s future',
-    details: 'Education savings plans help you save systematically for your child\'s post-secondary education. These plans grow tax-free and ensure funds are available when your child is ready for college or university.'
-  },
-  {
     icon: PiggyBank,
     title: 'RESP',
     description: 'Registered Education Savings Plans',
@@ -91,12 +85,6 @@ const services = [
     title: 'Visitor Insurance',
     description: 'Coverage for visitors to Canada',
     details: 'Visitor insurance provides emergency medical coverage for parents, family, and friends visiting Canada. It protects visitors from high medical costs and ensures they receive necessary care.'
-  },
-  {
-    icon: Clock,
-    title: 'Long-Term Care',
-    description: 'Care for your future',
-    details: 'Long-term care insurance covers the costs of assistance with daily activities like bathing, dressing, and eating if you become unable to care for yourself due to chronic illness, disability, or aging.'
   },
 ]
 
