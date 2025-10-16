@@ -8,7 +8,7 @@ export function Footer() {
               © {new Date().getFullYear()} Insured By RD. All rights reserved.
             </p>
             <p className="text-gray-500 text-sm">
-             Licensed Insurance Advisor Working With Canada Care Insurance Agency
+             Licensed Insurance Advisor With Canada Care Insurance Agency
             </p>
           </div>
           <div className="flex gap-6">
