@@ -29,7 +29,7 @@ export function HeroSection() {
         </button>
         <div className="mt-8 flex flex-col items-center">
           <p className="text-white text-lg font-medium mb-4 opacity-90">
-            Licensed Insurance Advisor Working With Canada Care Insurance Agency (AGA)
+            Licensed Insurance Advisor Working With Canada Care Insurance Agency
           </p>
           <img 
             src="/1.png" 
