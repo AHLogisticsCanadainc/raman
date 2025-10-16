@@ -24,7 +24,7 @@ export function WhyChooseSection() {
       <div className="container mx-auto px-4">
         <h2 className="text-4xl md:text-5xl font-bold text-center mb-4">Why Choose Us</h2>
         <p className="text-xl text-center text-gray-600 mb-16">
-          Your trusted insurance partner in Canada
+          Your trusted insurance partner in Ontario
         </p>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
           {reasons.map((reason, index) => (
