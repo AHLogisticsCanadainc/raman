@@ -19,7 +19,7 @@ export function HeroSection() {
           Protect What Matters Most
         </h1>
         <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto opacity-90">
-          With 2+ years of service, we provide comprehensive insurance solutions tailored to your needs
+         We provide comprehensive insurance solutions tailored to your individual needs
         </p>
         <button
           onClick={scrollToContact}
@@ -29,7 +29,7 @@ export function HeroSection() {
         </button>
         <div className="mt-8 flex flex-col items-center">
           <p className="text-white text-lg font-medium mb-4 opacity-90">
-            Licensed Insurance Advisor Working With Canada Care Insurance Agency
+            Licensed Insurance Advisor With Canada Care Insurance Agency
           </p>
           <img 
             src="/1.png" 
