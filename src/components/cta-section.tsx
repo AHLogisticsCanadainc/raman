@@ -11,7 +11,7 @@ export function CTASection() {
           Ready to Protect What Matters Most?
         </h2>
         <p className="text-xl mb-8 max-w-2xl mx-auto opacity-90">
-          Get your personalized insurance quote today and experience the Insured By RD difference
+          Get your personalized insurance quote today and create a personalized safety net, giving you the complete peace of mind you deserve.
         </p>
         <button
           onClick={scrollToContact}
