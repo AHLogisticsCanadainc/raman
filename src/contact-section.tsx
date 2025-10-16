@@ -16,7 +16,7 @@ const contactInfo = [
   {
     icon: MapPin,
     title: 'Address',
-    content: '6751 Professional Ct Mississauga, ON L4V 1Y3',
+    content: '6751 Professional Ct Mississauga, Suit 201 ON L4V 1Y3',
     link: 'https://www.google.com/maps/place/6751+Professional+Ct,+Mississauga,+ON+L4V+1Y3/@43.7066702,-79.6311336,818m/data=!3m2!1e3!4b1!4m6!3m5!1s0x882b3be76f2fbd93:0x9cd347c5b4a3ae1c!8m2!3d43.7066702!4d-79.6285587!16s%2Fg%2F11b8vcpjlw?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D'
   }
 ]
