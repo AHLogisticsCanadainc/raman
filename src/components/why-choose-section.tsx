@@ -4,7 +4,7 @@ const reasons = [
   {
     icon: Award,
     title: 'Experience',
-    description: '2+ years of service helping our clients find the right insurance solutions',
+    description: '2+ years of helping people find the right insurance solutions',
   },
   {
     icon: UserCheck,
