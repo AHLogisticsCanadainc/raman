@@ -6,85 +6,85 @@ const services = [
     icon: Heart,
     title: 'Life Insurance',
     description: 'Protect your loved ones',
-    details: 'Life insurance provides financial protection for your family in the event of your passing. It ensures your loved ones can maintain their lifestyle, pay off debts, and cover future expenses like education and mortgage payments.'
+    details: 'Life insurance provides financial protection for your family in the event of your passing. It ensures your loved ones can maintain their lifestyle, pay off debts, and cover future expenses like education and mortgage payments. Conditions Apply'
   },
   {
     icon: Shield,
     title: 'Critical Illness Insurance',
     description: 'Financial security during tough times',
-    details: 'Critical illness insurance provides a lump-sum payment if you are diagnosed with a covered serious illness such as cancer, heart attack, or stroke. This financial support helps you focus on recovery without worrying about expenses.'
+    details: 'Critical illness insurance provides a lump-sum payment if you are diagnosed with a covered serious illness such as cancer, heart attack, or stroke. This financial support helps you focus on recovery without worrying about expenses. Conditions Apply'
   },
   {
     icon: Activity,
     title: 'Health & Dental Insurance',
     description: 'Comprehensive health coverage',
-    details: 'Health and dental insurance covers medical and dental expenses not covered by provincial healthcare, including prescription drugs, dental care, vision care, and paramedical services like physiotherapy and massage therapy.'
+    details: 'Health and dental insurance covers medical and dental expenses not covered by provincial healthcare, including prescription drugs, dental care, vision care, and paramedical services like physiotherapy and massage therapy. Conditions Apply '
   },
   {
     icon: Plane,
     title: 'Travel Insurance',
     description: 'Safe travels worldwide',
-    details: 'Travel insurance protects you during domestic and international trips, covering medical emergencies, trip cancellations, lost luggage, and other unexpected events that may occur while traveling.'
+    details: 'Travel insurance protects you during domestic and international trips, covering medical emergencies, trip cancellations, lost luggage, and other unexpected events that may occur while traveling. Conditions Apply'
   },
   {
     icon: PiggyBank,
     title: 'RESP',
     description: 'Registered Education Savings Plans',
-    details: 'RESPs are government-registered plans that help you save for your child\'s education with added benefits. The government contributes through grants (CESG and CLB) , and your savings grow tax-free until withdrawal.'
+    details: 'RESPs are government-registered plans that help you save for your child\'s education with added benefits. The government contributes through grants (CESG and CLB) , and your savings grow tax-free until withdrawal. Conditions Apply'
   },
   {
     icon: TrendingUp,
     title: 'RRSP',
     description: 'Retirement savings solutions',
-    details: 'RRSPs are tax-advantaged retirement savings accounts. Your contributions are tax-deductible, and investment growth is tax-deferred until withdrawal, helping you build a comfortable retirement fund.'
+    details: 'RRSPs are tax-advantaged retirement savings accounts. Your contributions are tax-deductible, and investment growth is tax-deferred until withdrawal, helping you build a comfortable retirement fund. Conditions Apply'
   },
   {
     icon: DollarSign,
     title: 'TFSA',
     description: 'Tax-Free Savings Accounts',
-    details: 'TFSAs allow you to save and invest money without paying taxes on the growth or withdrawals. Perfect for short-term and long-term savings goals, offering flexibility in contributions and withdrawals.'
+    details: 'TFSAs allow you to save and invest money without paying taxes on the growth or withdrawals. Perfect for short-term and long-term savings goals, offering flexibility in contributions and withdrawals. Conditions Apply'
   },
   {
     icon: Briefcase,
     title: 'Investment Solutions',
     description: 'Grow your wealth',
-    details: 'Our investment solutions help you build wealth through diversified portfolios tailored to your risk tolerance and financial goals, such as segregated funds, and other investment vehicles.'
+    details: 'Our investment solutions help you build wealth through diversified portfolios tailored to your risk tolerance and financial goals, such as segregated funds, and other investment vehicles. Conditions Apply'
   },
   {
     icon: Home,
     title: 'Mortgage Protection',
     description: 'Secure your home',
-    details: 'Mortgage protection insurance ensures your mortgage payments are covered if you pass away or become disabled. This protects your family from losing their home during difficult times.'
+    details: 'Mortgage protection insurance ensures your mortgage payments are covered if you pass away or become disabled. This protects your family from losing their home during difficult times. Conditions Apply'
   },
   {
     icon: Users,
     title: 'Group Benefits',
     description: 'Employee benefit plans',
-    details: 'Group benefits provide comprehensive health, dental, and life insurance coverage for employees and their families. These plans help businesses attract and retain talent while providing valuable protection.'
+    details: 'Group benefits provide comprehensive health, dental, and life insurance coverage for employees and their families. These plans help businesses attract and retain talent while providing valuable protection. Conditions Apply'
   },
   {
     icon: Baby,
     title: 'Child Insurance',
     description: 'Protect your children',
-    details: 'Child insurance provides life insurance coverage for your children at affordable rates. It guarantees their insurability for life and can be converted to larger policies as they grow older.'
+    details: 'Child insurance provides life insurance coverage for your children at affordable rates. It guarantees their insurability for life and can be converted to larger policies as they grow older. Conditions Apply'
   },
   {
     icon: Car,
     title: 'Disability Insurance',
     description: 'Income protection',
-    details: 'Disability insurance replaces a portion of your income if you become unable to work due to illness or injury. It ensures you can continue to pay bills and maintain your lifestyle during recovery.'
+    details: 'Disability insurance replaces a portion of your income if you become unable to work due to illness or injury. It ensures you can continue to pay bills and maintain your lifestyle during recovery. Conditions Apply'
   },
   {
     icon: Building,
     title: 'Business Insurance',
     description: 'Protect your business',
-    details: 'Business insurance protects your company from financial losses due to unexpected events. Coverage includes key person insurance, business overhead protection, and buy-sell agreement funding.'
+    details: 'Business insurance protects your company from financial losses due to unexpected events. Coverage includes key person insurance, business overhead protection, and buy-sell agreement funding. Conditions Apply'
   },
   {
     icon: Umbrella,
     title: 'Visitor Insurance',
     description: 'Coverage for visitors to Canada',
-    details: 'Visitor insurance provides emergency medical coverage for parents, family, and friends visiting Canada. It protects visitors from high medical costs and ensures they receive necessary care.'
+    details: 'Visitor insurance provides emergency medical coverage for parents, family, and friends visiting Canada. It protects visitors from high medical costs and ensures they receive necessary care. Conditions Apply'
   },
 ]
 
