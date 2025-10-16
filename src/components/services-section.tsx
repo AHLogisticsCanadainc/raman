@@ -30,7 +30,7 @@ const services = [
     icon: PiggyBank,
     title: 'RESP',
     description: 'Registered Education Savings Plans',
-    details: 'RESPs are government-registered plans that help you save for your child\'s education with added benefits. The government contributes through grants and bonds, and your savings grow tax-free until withdrawal.'
+    details: 'RESPs are government-registered plans that help you save for your child\'s education with added benefits. The government contributes through grants (CESG and CLB) , and your savings grow tax-free until withdrawal.'
   },
   {
     icon: TrendingUp,
